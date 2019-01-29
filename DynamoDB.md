@@ -1,4 +1,4 @@
-# DynamoDB
+#000 DynamoDB
 
 ## 1.進入DynamoDB Console，點選中間的Create table
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_CF056E35B54101733906EB8D89D2F9B899D4134D6DB5B4F08E57A7E5EE9FCB84_1548725032157_D1.jpg)
